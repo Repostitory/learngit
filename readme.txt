@@ -7,8 +7,7 @@ Creating a new branch is quick and simple.
 Git tracks changes.
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
-    
-
+HEAD word
 	
 
     
